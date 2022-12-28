@@ -2,7 +2,7 @@
 PROJECT-1. Анализ резюме из HeadHunter
 ## Оглавление
 [1. Описание проекта](https://github.com/BNastya8/PROJECT_1_HeadHunter/edit/main/README.mdd#Описание-проекта)
-[2. Организационная информация](https://github.com/BNastya8/PROJECT_1_HeadHunter/edit/main/README.md#Организационная информация)
+[2. Организационная информация](https://github.com/BNastya8/PROJECT_1_HeadHunter/edit/main/README.md#Организационная-информация)
 [3. Краткая информация о данных](https://github.com/BNastya8/PROJECT_1_HeadHunter/edit/main/README.md#Краткая-информация-о-данных)
 [4. Этапы работы над проектом](https://github.com/BNastya8/PROJECT_1_HeadHunter/edit/main/README.md#Этапы-работы-над-проектом)
 [5. Результат](https://github.com/BNastya8/PROJECT_1_HeadHunter/edit/main/README.mdmd#Результат)
