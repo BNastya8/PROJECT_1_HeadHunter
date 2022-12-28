@@ -34,16 +34,17 @@ PROJECT-1. Анализ резюме из HeadHunter
 
 ### Краткая информация о данных
 Ссылка на основные дынные dst-3.0_16_1_hh_database - https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view
+
 Ссылка на выгрузку курсов валют ExchangeRates - https://drive.google.com/file/d/1MB7cLoYhH6ge1yLNDIfkO-YCrh5KPfBt/view?usp=sharing
   
 :arrow_up:[к оглавлению](https://github.com/BNastya8/PROJECT_1_HeadHunter/edit/main/README.mdd##Оглавление)
 
 
 ### Этапы работы над проектом  
-- базовый анализ структуры данных
-- преобразование данных
-- разведывательный анализ
-- очистка данных
+- Базовый анализ структуры данных
+- Преобразование данных
+- Разведывательный анализ
+- Очистка данных
 - Оформление
 - Выгрузка на GitHub
 
