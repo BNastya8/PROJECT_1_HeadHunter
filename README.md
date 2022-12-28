@@ -33,9 +33,9 @@ PROJECT-1. Анализ резюме из HeadHunter
 :arrow_up:[к оглавлению](https://github.com/BNastya8/PROJECT_1_HeadHunter/edit/main/README.mdd##Оглавление)
 
 ### Краткая информация о данных
-Ссылка на дынные с которыми работаем dst-3.0_16_1_hh_database - https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view
+Ссылка на дынные с которыми работаем: dst-3.0_16_1_hh_database - https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view
 
-Ссылка на выгрузку курсов валют ExchangeRates - https://drive.google.com/file/d/1MB7cLoYhH6ge1yLNDIfkO-YCrh5KPfBt/view?usp=sharing
+Ссылка на выгрузку курсов валют: ExchangeRates - https://drive.google.com/file/d/1MB7cLoYhH6ge1yLNDIfkO-YCrh5KPfBt/view?usp=sharing
   
 :arrow_up:[к оглавлению](https://github.com/BNastya8/PROJECT_1_HeadHunter/edit/main/README.mdd##Оглавление)
 
