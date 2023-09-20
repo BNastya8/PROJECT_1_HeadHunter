@@ -51,7 +51,6 @@ PROJECT-1. Анализ резюме из HeadHunter
 :arrow_up:[к оглавлению](https://github.com/BNastya8/PROJECT_1_HeadHunter/edit/main/README.mdd##Оглавление)
 
 
-
 ### Результаты:  
 Проведен анализ данных. Данные были преобразованы и очищены.
 
